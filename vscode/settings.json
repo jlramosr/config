@@ -5,6 +5,5 @@
     "window.zoomLevel": 0,
     "workbench.colorTheme": "Monokai",
     "workbench.iconTheme": "vs-seti",
-    "spell.StopAsking": true,
     "editor.snippetSuggestions": "top"
   }
