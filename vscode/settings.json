@@ -1,4 +1,9 @@
 {
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    "editor.tabSize": 2,
+    "window.zoomLevel": 0,
     "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "vs-seti",
     "editor.snippetSuggestions": "top"
-}
+  }
