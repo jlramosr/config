@@ -7,7 +7,10 @@
   "editor.tabSize": 2,
   "eslint.alwaysShowStatus": true, //install dbaeumer.vscode-eslint plugin
   "eslint.autoFixOnSave": true,
+  "files.eol": "\n",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe", //on windows
   "window.zoomLevel": 0,
   "workbench.colorTheme": "Monokai",
-  "workbench.iconTheme": "vs-seti",
+  "workbench.iconTheme": "vscode-great-icons",
 }
