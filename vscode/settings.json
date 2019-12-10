@@ -1,11 +1,11 @@
 {
-  "editor.fontLigatures": true,
   "editor.fontFamily": "'Consolas', 'Courier New', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  "editor.fontLigatures": true,
   "editor.fontSize": 14,
   "editor.formatOnSave": true,
   "editor.snippetSuggestions": "top",
   "editor.tabSize": 2,
-  "eslint.alwaysShowStatus": true,
+  "eslint.alwaysShowStatus": true, //install dbaeumer.vscode-eslint plugin
   "eslint.autoFixOnSave": true,
   "window.zoomLevel": 0,
   "workbench.colorTheme": "Monokai",
