@@ -4,7 +4,7 @@
   "editor.fontSize": 14,
   "editor.snippetSuggestions": "top",
   "editor.tabSize": 2,
-  "eslint.alwaysShowStatus": true,
+  "eslint.alwaysShowStatus": true, //install dbaeumer.vscode-eslint plugin
   "eslint.autoFixOnSave": true,
   "eslint.run": "onSave",
   "files.eol": "\n",
